@@ -1,9 +1,9 @@
 backend:
   # Use netlify identity as backend
   # name: git-gateway
+  name: github
   branch: master
   ### enable below lines for github integration ###
-  name: github
   repo: webdevdjm/djm
 media_folder: "src/static/img"
 public_folder: "/static/img"
