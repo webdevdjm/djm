@@ -2,9 +2,9 @@
 items:
   - text: Home
     url: "#"
-  - text: About
-    url: "#"
-  - text: Contact
+  - text: Portfolio
     url: "#"
   - text: Blog
     url: "/blog"
+  - text: Contact
+    url: "#"

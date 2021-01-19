@@ -12,6 +12,13 @@ module.exports = {
     },
     extend: {
       colors: {},
+      // ~~~~~~~~~~~ Custom Google Fonts ~~~~~~~~~~~
+      fontFamily: {
+        // ~~~~~~~~~~~ Headings ~~~~~~~~~~~
+        'ubuntu': ['ubuntu', 'sans-serif'],
+        // ~~~~~~~~~~~ Body Copy ~~~~~~~~~~~
+        'poppins': ['Poppins', 'sans-serif']
+      },
     },
   },
   variants: {},
